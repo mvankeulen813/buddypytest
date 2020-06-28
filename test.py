@@ -2,6 +2,6 @@ from main import *
 
 def test_main():
     res = print_me();
-    assert res == False 
+    assert res == True
 
 test_main()
